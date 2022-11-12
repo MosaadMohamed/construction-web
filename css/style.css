@@ -789,6 +789,10 @@ header .container .login-form p a:hover {
   .footer .credit {
     font-size:1.5rem;
     font-weight:bold;
+  }
+  html::-webkit-scrollbar {
+  width: 0;
+}
 }
 @media (max-width: 991px) {
   html {
