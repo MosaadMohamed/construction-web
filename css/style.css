@@ -786,6 +786,9 @@ header .container .login-form p a:hover {
   .about .row .content {
     width: 100%;
   }
+  .footer .credit {
+    font-size:1.5rem;
+    font-weight:bold;
 }
 @media (max-width: 991px) {
   html {
