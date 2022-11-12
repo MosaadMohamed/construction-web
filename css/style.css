@@ -832,6 +832,7 @@ header .container .login-form p a:hover {
   cursor: pointer;
   transition: 0.2s;
   transition: 0.3s;
+  z-index:1005;
 }
 
 .up i {
